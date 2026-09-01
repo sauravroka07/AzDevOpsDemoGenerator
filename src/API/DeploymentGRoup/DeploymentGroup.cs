@@ -4,7 +4,7 @@ namespace RestAPI.DeploymentGRoup
 {
     public class DeploymentGroup : ApiServiceBase
     {
-        public DeploymentGroup(IADOConfiguration configuration) : base(configuration)
+        public DeploymggentGroup(IADOConfiguration configuration) : base(configuration)
         {
         }
 
